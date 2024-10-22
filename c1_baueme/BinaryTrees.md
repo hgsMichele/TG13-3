@@ -27,3 +27,4 @@ Beispielsweise:
 ```Java
 tree.inorder();
 ```
+Man kann wie bei dem rekursiven Algorithmus nach dem Maximum oder Minimum des Values vom Baum suchen, außerdem ist die Größw des Baumes bestimmbar. Über Search lassen sich einzelne keys suchen. 
